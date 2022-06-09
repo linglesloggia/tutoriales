@@ -21,6 +21,8 @@ Modificar /etc/sudoers agregando la linea Defaults env_keep="https_proxy"
 
 Finalmente se agrega la repo con
 
+```
 sudo -E add-apt-repository ppa:the_ppa_you_want_to_add
+```
 
-Fuente: [https://askubuntu.com/questions/212132/i-cant-add-ppa-repository-behind-the-proxy]https://askubuntu.com/questions/212132/i-cant-add-ppa-repository-behind-the-proxy
+Fuente: [https://askubuntu.com/questions/212132/i-cant-add-ppa-repository-behind-the-proxy](https://askubuntu.com/questions/212132/i-cant-add-ppa-repository-behind-the-proxy)
